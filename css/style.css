@@ -56,3 +56,14 @@ body {
 .container h1{
     text-align: center;
 }
+
+.container form {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.container .flag{
+    text-align: center;
+    margin-top: 20px;
+}
