@@ -1,7 +1,7 @@
 <h1 align="center"> Country Guide App </h1>
 
 <p align="center">
-Desenvolvido para fazer um pesquisa de algum pais e saber mais sobre como: capital, continent, population, currency e common
+Projeto 01 JavaScript - faculdade flamingo
 </p>
 
 <p align="center">
